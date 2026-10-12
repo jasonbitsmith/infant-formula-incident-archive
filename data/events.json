@@ -1,0 +1,671 @@
+{
+  "title": "婴幼儿奶粉事件资料库",
+  "version": "0.1.0",
+  "coverage_start": "1996-10-13",
+  "coverage_end": "2026-10-13",
+  "checked_on": "2026-10-13",
+  "exhaustive": false,
+  "records": [
+    {
+      "id": "IF-1997-01",
+      "occurred": "1996年末—1997年初",
+      "announced": "1997-01（媒体报道1997-01-25）",
+      "region": "英国、法国；爱尔兰撤市",
+      "brands": "Milupa / Milumil",
+      "product": "婴儿配方粉",
+      "category": "微生物",
+      "evidence_status": "调查支持关联；跨国撤市",
+      "problem": "Anatum沙门氏菌疫情；原始研究对患者与配方粉菌株进行分子比对。",
+      "affected_scope": "研究报告涉及英国15名婴儿及2名亲属、法国2名婴儿；未在所读摘要给出全部批次。",
+      "action": "Milumil在爱尔兰预防性撤市。",
+      "followup": "同期爱尔兰报道未报告当地该菌株病例；随后论文支持配方粉相关疫情。",
+      "source_ids": [
+        "S01",
+        "S02"
+      ],
+      "notes": "1996年起病的具体日期未明，不能确认所有病例均在1996-10-13之后。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-1998-01",
+      "occurred": "1997-01生产批次",
+      "announced": "1998-01-16（报道1998-01-17）",
+      "region": "爱尔兰",
+      "brands": "Milupa / Milumil",
+      "product": "Milumil婴儿配方粉",
+      "category": "微生物",
+      "evidence_status": "媒体转述监管检测",
+      "problem": "一包配方粉在例行检测中发现沙门氏菌。",
+      "affected_scope": "保质日期1999-01-29或1999-01-30。",
+      "action": "卫生部门建议停用并退回；企业检查撤架。",
+      "followup": "报道指其他批次及其他Milupa产品没有被指涉；与1997疫情是否同一事件未确定。",
+      "source_ids": [
+        "S03"
+      ],
+      "notes": "",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2001-01",
+      "occurred": "2001-04",
+      "announced": "2002-03-29召回；2002-04调查报告",
+      "region": "美国田纳西州",
+      "brands": "Mead Johnson / Portagen",
+      "product": "特殊营养吸收用途粉状配方",
+      "category": "微生物",
+      "evidence_status": "未开封产品检出；菌株匹配",
+      "problem": "阪崎肠杆菌（现称Cronobacter sakazakii）感染；患儿与已开封及未开封配方粉分离菌株一致。",
+      "affected_scope": "BMC17；医院调查9名感染或定植者，包含1名死亡患儿。",
+      "action": "厂家自愿召回涉事批次；医院调整配方及配制流程。",
+      "followup": "CDC调查未发现配制感染控制违规。",
+      "source_ids": [
+        "S04"
+      ],
+      "notes": "属于医疗监督下特殊用途配方，不能扩大到美赞臣全部奶粉。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2003-01",
+      "occurred": "2003-10—11",
+      "announced": "2003-11（调查论文2005年发表）",
+      "region": "以色列",
+      "brands": "Remedia",
+      "product": "Remedia Super Soya 1大豆配方",
+      "category": "营养成分",
+      "evidence_status": "原始临床调查",
+      "problem": "同一配方喂养婴儿发生硫胺素（维生素B1）缺乏相关疾病。",
+      "affected_scope": "为以色列市场生产的该款大豆配方；所读摘要未给出批次。",
+      "action": "以色列卫生部门开展调查及受喂养婴儿筛查。",
+      "followup": "论文报告156名相关喂养婴儿接受缺乏筛查。",
+      "source_ids": [
+        "S05"
+      ],
+      "notes": "以论文摘要为据，不填未经核实的死亡总数及判决。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2004-01",
+      "occurred": "2003—2004",
+      "announced": "2004-04",
+      "region": "中国安徽阜阳等地",
+      "brands": "多家劣质/假冒产品；本条不列未经核实商标",
+      "product": "被销售为婴儿奶粉的劣质粉",
+      "category": "掺假及营养不足",
+      "evidence_status": "官方调查材料",
+      "problem": "用淀粉、蔗糖等替代乳粉，不能提供应有蛋白质、脂肪和其他必需营养。",
+      "affected_scope": "涉及阜阳劣质婴儿奶粉案件；品牌和批次未从当前可访问材料逐一核定。",
+      "action": "联合调查、查处制售窝点及问题产品。",
+      "followup": "政府调查材料说明其主要问题是营养不足。",
+      "source_ids": [
+        "S06"
+      ],
+      "notes": "不把曾被误列的正规商标作为确认问题品牌；当前来源仅摘要可访问。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2005-01",
+      "occurred": "2005-01—05",
+      "announced": "2005-03起调查；2006-09报告",
+      "region": "法国",
+      "brands": "官方英文摘要匿名为品牌A、品牌B",
+      "product": "同一生产线婴儿配方粉",
+      "category": "微生物",
+      "evidence_status": "官方疫情调查",
+      "problem": "Agona沙门氏菌疫情与两个配方粉品牌关联。",
+      "affected_scope": "五个月调查识别146例；品牌B五批次与品牌A同线生产。",
+      "action": "品牌A召回后继续调查品牌B。",
+      "followup": "官方摘要分别记44例关联A、92例关联B；不据此推断各批次全部污染。",
+      "source_ids": [
+        "S07"
+      ],
+      "notes": "保留官方摘要匿名方式，未凭二手材料补品牌。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2008-01",
+      "occurred": "2008年；部分投诉更早",
+      "announced": "2008-09；专项结果2008-09-16",
+      "region": "中国；部分跨境流通",
+      "brands": "三鹿、熊猫可宝、圣元、古城、英雄、惠民、蒙牛、可淇、雅士利、南山倍益、齐宁基粉、金必氏、施恩、金鼎、伊利、澳美多、爱可丁、御宝、磊磊、宝安力、聪尔壮",
+      "product": "婴幼儿/儿童配方乳粉及2段基粉（依名单）",
+      "category": "化学污染/掺假",
+      "evidence_status": "监管检出确认",
+      "problem": "三聚氰胺污染；全国专项检查109家企业491批次，22家企业69批次检出。",
+      "affected_scope": "按企业及产品见附录；不能由厂家名单推算所有批次。",
+      "action": "问题产品处置、下架召回、调查及患儿筛查救治。",
+      "followup": "WHO确认污染配方粉与婴儿肾结石病例有关；各时点病例数字不同，本表不混用。",
+      "source_ids": [
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "notes": "广东雅士利与山西雅士利为两家企业；原名单伊利产品写作儿童配方乳粉。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2010-01",
+      "occurred": "2010-09",
+      "announced": "2010-09-22",
+      "region": "美国等涉事市场",
+      "brands": "Abbott / Similac",
+      "product": "部分Similac粉状婴儿配方",
+      "category": "异物",
+      "evidence_status": "企业召回；政府数据记录",
+      "problem": "Sturgis工厂成品发现仓储甲虫及幼虫。",
+      "affected_scope": "部分粉状产品；完整批次需以历史召回清单核对。",
+      "action": "Abbott自愿召回部分Similac粉状产品。",
+      "followup": "政府目录保留FDA历史召回数据说明。",
+      "source_ids": [
+        "S11"
+      ],
+      "notes": "不涉及所有Similac产品；不把未核实伤害数字写入。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2011-01",
+      "occurred": "2011年生产产品",
+      "announced": "2011-12-06企业公布；香港2011-12-07跟进",
+      "region": "日本；香港跟进",
+      "brands": "明治 / Meiji",
+      "product": "日本明治成长婴儿奶粉（9个月—3岁）850g",
+      "category": "放射性物质",
+      "evidence_status": "企业自愿回收；监管跟进",
+      "problem": "日本部分批次检出放射性物质。",
+      "affected_scope": "赏味期限2012-10-04、10-21、10-22、10-24。",
+      "action": "企业自愿回收相关批次；香港追查进口及销售。",
+      "followup": "香港当时所检140个日本奶粉样本（含50个明治样本）均未检出；受影响进口批次未流入当地零售。",
+      "source_ids": [
+        "S12"
+      ],
+      "notes": "记录检出与回收事实，不写成已确认超过当时限值。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2012-01",
+      "occurred": "2011-11—2012-05生产产品",
+      "announced": "2012-06-13开始召回；2012-06-14公布",
+      "region": "中国大陆",
+      "brands": "伊利",
+      "product": "全优2、3、4段乳粉",
+      "category": "化学指标",
+      "evidence_status": "监管警讯；企业召回",
+      "problem": "个别批次汞含量异常。",
+      "affected_scope": "召回2011年11月至2012年5月生产的上述产品。",
+      "action": "伊利启动召回并调查来源。",
+      "followup": "台湾监管警讯转述质检总局公布的2批婴幼儿配方粉异常。",
+      "source_ids": [
+        "S13",
+        "S14"
+      ],
+      "notes": "按原通报写“异常”，不擅自替换为当时未核定标准的“超标”。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2012-02",
+      "occurred": "2012年抽样",
+      "announced": "2012-08-08；08-10扩展",
+      "region": "香港销售的日本产品",
+      "brands": "和光堂、森永；扩展涉及明治HP",
+      "product": "初生配方及特定无乳糖/低敏配方",
+      "category": "营养成分",
+      "evidence_status": "监管检测及风险评估",
+      "problem": "特定样本碘含量较低；香港公告提示可能影响依赖该产品喂养婴儿。",
+      "affected_scope": "初公告和光堂、森永850g初生配方；扩展四款见附录说明。",
+      "action": "当局呼吁停用相关产品并提供跟进筛查安排。",
+      "followup": "08-16复检确认雪印思敏儿1与明治细仔两款此前初筛异常产品符合食品法典标准。",
+      "source_ids": [
+        "S15",
+        "S16",
+        "S17"
+      ],
+      "notes": "不能把所有日本奶粉列为低碘；跨市场标准和风险评估需保留。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2013-01",
+      "occurred": "2013年；涉事乳清原料更早生产",
+      "announced": "2013-08-02起；08-28纠正菌种",
+      "region": "新西兰及多个出口市场",
+      "brands": "Fonterra乳清原料；下游配方产品",
+      "product": "WPC80原料及采用该原料的配方粉",
+      "category": "微生物疑虑",
+      "evidence_status": "预防性召回；最初肉毒梭菌怀疑被排除",
+      "problem": "初步结果引起肉毒梭菌污染疑虑，促发原料及下游产品回收。",
+      "affected_scope": "38吨WPC80原料；下游完整品牌及批次未在本条穷尽。",
+      "action": "预防性回收及跨境通报。",
+      "followup": "独立复检确认是Clostridium sporogenes，排除最初所称C. botulinum；香港后续资料记为误警。",
+      "source_ids": [
+        "S18",
+        "S19",
+        "S20"
+      ],
+      "notes": "不得记成确认肉毒中毒；本条也不对其他年份同名细菌作泛化结论。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2015-01",
+      "occurred": "2014-08—2015-09犯罪行为；2016-03扣押",
+      "announced": "2018-03-14司法案例公布",
+      "region": "中国",
+      "brands": "假冒贝因美、雅培商标",
+      "product": "其他奶粉灌装的冒牌婴幼儿奶粉",
+      "category": "假冒销售",
+      "evidence_status": "司法机构案例确认",
+      "problem": "制造冒牌奶粉罐，再用其他品牌奶粉灌装销售。",
+      "affected_scope": "2016年3月扣押假冒雅培3909罐；其他批次详见案件。",
+      "action": "刑事调查及司法处理。",
+      "followup": "最高检将案件列入2017年度打假典型案例。",
+      "source_ids": [
+        "S21"
+      ],
+      "notes": "事件归责于制假售假者，不代表贝因美或雅培正规工厂产品污染。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2015-02",
+      "occurred": "2015-01—05生产产品",
+      "announced": "2015年第二季度抽检；处罚报道2015-12-05",
+      "region": "中国陕西",
+      "brands": "陕西圣唐旗下圣唐秦龙乳业；具体商标未核定",
+      "product": "婴幼儿配方乳粉/羊奶粉",
+      "category": "成分标准/标签明示值",
+      "evidence_status": "媒体转述监管处罚",
+      "problem": "16批次不合格，其中3批次不符合国家标准、13批次不符合企业标准中的产品明示值。",
+      "affected_scope": "2015年1—5月生产的16批次；当前来源未列每项指标。",
+      "action": "按不同违法情形处罚及没收违法所得。",
+      "followup": "来源区分国家标准与明示值，不将二者一律表述为相同安全问题。",
+      "source_ids": [
+        "S22"
+      ],
+      "notes": "没有逐批附件，不填具体污染物。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2017-01",
+      "occurred": "2017-08起病例",
+      "announced": "2017-12；2018-01扩展回收",
+      "region": "法国及国际分销市场",
+      "brands": "Lactalis旗下涉事配方产品（按各地公告）",
+      "product": "Craon工厂婴幼儿配方粉",
+      "category": "微生物",
+      "evidence_status": "官方疫情关联；监管召回",
+      "problem": "Agona沙门氏菌疫情与Lactalis Nutrition Santé配方产品有关。",
+      "affected_scope": "法国最初针对2017-02-15以来生产产品；后扩展至Craon工厂所有批次。",
+      "action": "暂停相关产品营销出口、召回；进口市场停售回收。",
+      "followup": "2018-01-18香港公告记录召回范围扩大。",
+      "source_ids": [
+        "S23",
+        "S24"
+      ],
+      "notes": "同一疫情不同国家/扩展公告合并成一条，不累加重复事件。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2019-01",
+      "occurred": "2018-08—2019-02",
+      "announced": "2019-01-24；Picot AR 01-25",
+      "region": "法国；西班牙生产并跨境销售",
+      "brands": "Modilac；Picot AR预防性召回",
+      "product": "米蛋白婴儿配方及同厂Picot AR",
+      "category": "微生物",
+      "evidence_status": "官方调查支持关联；扩展预防性召回",
+      "problem": "Poona沙门氏菌疫情强烈指向西班牙同厂米蛋白配方。",
+      "affected_scope": "Modilac米蛋白系列及该厂相关生产，无批次或生产日期区分；Picot AR同厂。",
+      "action": "Sodilac召回米蛋白系列；Lactalis预防性召回Picot AR。",
+      "followup": "后续研究报告法国31例；基因分析联系到2010—2011年西班牙同厂疫情。",
+      "source_ids": [
+        "S25",
+        "S26"
+      ],
+      "notes": "不把Picot AR预防性召回写成其产品检出菌株。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2019-02",
+      "occurred": "2019年；单批次产品",
+      "announced": "2019-06-21",
+      "region": "美国",
+      "brands": "Parent’s Choice / Perrigo",
+      "product": "Advantage含铁乳基粉状婴儿配方992g",
+      "category": "异物",
+      "evidence_status": "可能存在；企业预防性召回",
+      "problem": "消费者报告促发金属异物可能性召回。",
+      "affected_scope": "C26EVFV；使用期限2021-02-26；23388罐。",
+      "action": "全美召回该批次，Walmart退货。",
+      "followup": "当时未报告不良事件；FDA网页现标注召回终止。",
+      "source_ids": [
+        "S27"
+      ],
+      "notes": "",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2020-01",
+      "occurred": "2017-12-01—2019-08-14进货/销售行为",
+      "announced": "2020年被调查；后收入典型案例",
+      "region": "中国湖南永兴",
+      "brands": "倍氨敏（固体蛋白饮料）",
+      "product": "深度水解蛋白无乳糖配方粉；实为固体饮料",
+      "category": "误导销售",
+      "evidence_status": "监管案例确认",
+      "problem": "商家夸大功效，将固体饮料宣传为适合过敏婴儿的特殊用途奶粉。",
+      "affected_scope": "11家连锁店；购进1086罐。",
+      "action": "市场监管查处误导宣传销售。",
+      "followup": "监管案例明确产品身份是固体蛋白饮料。",
+      "source_ids": [
+        "S28"
+      ],
+      "notes": "这是非奶粉冒充奶粉销售的附录事件，不写成获批特医奶粉制造污染。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2021-01",
+      "occurred": "2021年美国销售进口产品",
+      "announced": "2021-08-08",
+      "region": "美国（欧洲配方进口销售）",
+      "brands": "HiPP、Holle、Bioland、Kendamil；部分Lebenswert产品",
+      "product": "Able Groupe经销的特定婴儿配方",
+      "category": "市场准入/标签与营养要求",
+      "evidence_status": "企业召回公告；FDA刊载",
+      "problem": "未提交美国要求的上市前通知；部分产品铁低于美国相应要求且缺少必要声明。",
+      "affected_scope": "按公告产品清单；不是所有列名品牌产品均低铁。",
+      "action": "Able Groupe召回相关经销产品。",
+      "followup": "适用于美国进口销售及标签要求，不能推断在原产市场也被判不合格。",
+      "source_ids": [
+        "S29"
+      ],
+      "notes": "企业经销范围与厂家全品牌必须区分。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2022-01",
+      "occurred": "2021-09—2022-01病例；投诉至2022-02",
+      "announced": "2022-02-17；02-28增加PM 60/40",
+      "region": "美国及国际市场",
+      "brands": "Abbott / Similac、Alimentum、EleCare；PM 60/40",
+      "product": "Sturgis工厂部分粉状配方",
+      "category": "微生物",
+      "evidence_status": "工厂环境检出；病例关联未确证",
+      "problem": "克罗诺杆菌投诉调查及工厂卫生问题促发召回。",
+      "affected_scope": "原范围代码前两位22—37，包含K8/SH/Z2，期限2022-04-01及以后；PM 60/40罐27032K80、箱27032K800。",
+      "action": "召回相关粉状产品并暂停工厂生产。",
+      "followup": "FDA调查页记录4例住院、2例死亡报告；2022-03-31更新称厂内产品样本阴性，两份患者临床菌株与工厂环境菌株未匹配；不能据此断言产品造成死亡。",
+      "source_ids": [
+        "S30"
+      ],
+      "notes": "不包括液体配方；需区分环境阳性、产品检测与患者菌株。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2022-02",
+      "occurred": "2022年销售",
+      "announced": "2022-09-06警告；09-16召回",
+      "region": "美国宾夕法尼亚州及官网",
+      "brands": "Mother’s Touch",
+      "product": "Baby Formula",
+      "category": "营养/市场准入/检测",
+      "evidence_status": "监管认定合规缺陷；标签值不符",
+      "problem": "未作上市前通知，标签所列7项营养量不符合要求，且未充分检测有害菌。",
+      "affected_scope": "相关产品；未提供批次范围。",
+      "action": "FDA消费警告；企业自愿召回。",
+      "followup": "FDA指出蛋白质、亚油酸、钙、钠、钾、氯标签量偏低，铁偏高。",
+      "source_ids": [
+        "S31"
+      ],
+      "notes": "未充分检测不等于已检出病原菌；标签值不等于独立实测值。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2022-03",
+      "occurred": "2022-09—10生产",
+      "announced": "2022-12-11",
+      "region": "美国",
+      "brands": "ByHeart",
+      "product": "Whole Nutrition 0—12个月乳基含铁粉24oz",
+      "category": "微生物",
+      "evidence_status": "可能交叉污染；企业召回",
+      "problem": "第三方包装环节样本阳性，召回同生产运行中的已分销批次。",
+      "affected_scope": "22273 C1、22276 C1、22277 C1、22278 C1、22280 C1；期限2024-01-01或07-01。",
+      "action": "五批次自愿召回。",
+      "followup": "当时企业称已分销产品未检出、未收到相关患病投诉；2023年FDA警告信补充批次及卫生记录问题。",
+      "source_ids": [
+        "S32",
+        "S33"
+      ],
+      "notes": "与2025年肉毒中毒疫情分开记录。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2023-01",
+      "occurred": "2022-08—09生产",
+      "announced": "2023-02-19召回；02-21通报",
+      "region": "美国、关岛、波多黎各",
+      "brands": "Reckitt / Enfamil ProSobee",
+      "product": "Simply Plant-Based粉状配方12.9oz",
+      "category": "微生物",
+      "evidence_status": "可能交叉污染；召回",
+      "problem": "克罗诺杆菌交叉污染可能性。",
+      "affected_scope": "ZL2HZF、ZL2HZZ；期限2024-03-01；约145000罐。",
+      "action": "两批次自愿召回。",
+      "followup": "公告称已分销产品检测阴性；FDA后续警告信记载卫生及生产活动相关问题。",
+      "source_ids": [
+        "S34",
+        "S35"
+      ],
+      "notes": "",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2023-02",
+      "occurred": "2023-01-02—01-18生产",
+      "announced": "2023-03-17",
+      "region": "美国",
+      "brands": "Gerber Good Start / Perrigo",
+      "product": "SoothePro粉状婴儿配方",
+      "category": "微生物",
+      "evidence_status": "生产批次阳性记录；相关产品召回",
+      "problem": "潜在克罗诺杆菌污染；FDA警告信记生产运行期间产品阳性与已分销产品处置问题。",
+      "affected_scope": "Gateway Eau Claire工厂对应生产期内公告列出批次，完整代码见来源。",
+      "action": "自愿召回所列产品。",
+      "followup": "FDA网页现标注召回完成并终止；不能把生产阳性批次等同全部售出罐均阳性。",
+      "source_ids": [
+        "S36",
+        "S37"
+      ],
+      "notes": "",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2023-03",
+      "occurred": "2023-06生产；06—08主要分销",
+      "announced": "2023-12（FDA通报12-31）",
+      "region": "美国；其他国家另行处置",
+      "brands": "Reckitt / Mead Johnson Nutramigen",
+      "product": "低敏粉状配方12.6及19.8oz",
+      "category": "微生物",
+      "evidence_status": "境外抽样发现风险；企业召回",
+      "problem": "可能受克罗诺杆菌污染。",
+      "affected_scope": "ZL3FHG、ZL3FMH、ZL3FPE、ZL3FQD、ZL3FXJ、ZL3FRW；期限2025-01-01。",
+      "action": "召回指定美国批次；境外产品联系各地监管处置。",
+      "followup": "公告称企业检测阴性、当时无患病报告。",
+      "source_ids": [
+        "S38"
+      ],
+      "notes": "保留“可能污染”，不推广到其他批次。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2024-01",
+      "occurred": "2024年分销产品",
+      "announced": "2024-05-24合规召回；05-31污染警告",
+      "region": "美国",
+      "brands": "Crecelac / Dairy Manufacturers Inc.",
+      "product": "含铁山羊奶粉状婴儿配方",
+      "category": "微生物/市场准入",
+      "evidence_status": "产品样本检出；监管警告",
+      "problem": "原先因不符合美国配方法规召回，随后FDA在Crecelac样本检出克罗诺杆菌。",
+      "affected_scope": "Crecelac相关产品；其他同公告产品的合规问题不能等同检测阳性。",
+      "action": "合规召回后FDA追加食品安全警告。",
+      "followup": "所读官方警告区分法规召回与新的微生物发现。",
+      "source_ids": [
+        "S39"
+      ],
+      "notes": "",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2024-02",
+      "occurred": "2024-02起配送",
+      "announced": "2024-08-08",
+      "region": "美国部分州",
+      "brands": "CVS Health、H-E-B Baby / Perrigo",
+      "product": "Premium乳基含铁粉状婴儿配方",
+      "category": "营养成分",
+      "evidence_status": "例行检测发现；召回",
+      "problem": "维生素D超过允许最高水平。",
+      "affected_scope": "CVS T11LMYC期限2025-11-11；H-E-B T11LMXC期限2025-11-11、T09LMXC期限2025-11-09；16500罐。",
+      "action": "零售商及仓库层级自愿召回。",
+      "followup": "公告发布时未收到可归因于维生素D的相关不良事件报告。",
+      "source_ids": [
+        "S40"
+      ],
+      "notes": "",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2025-01",
+      "occurred": "2025年疫情；2026年后续调查",
+      "announced": "2025-11-08；11-11扩大所有批次",
+      "region": "美国及其他受影响市场",
+      "brands": "ByHeart",
+      "product": "Whole Nutrition罐装及Anywhere Pack",
+      "category": "微生物",
+      "evidence_status": "疫情调查与菌株证据支持关联",
+      "problem": "婴儿肉毒中毒疫情；配方粉与乳粉原料样本检出相关菌株。",
+      "affected_scope": "初始251261P2、251131P2；随后全部批次罐与包。",
+      "action": "扩大召回全部产品；FDA工厂与原料供应链调查。",
+      "followup": "FDA后续汇总48例、17州；CDC于2026-02-26宣布疫情结束；原料样本与临床及配方样本匹配，根因调查仍未确定污染进入环节。",
+      "source_ids": [
+        "S41",
+        "S42"
+      ],
+      "notes": "疫情结束不等于根因已解决或产品自动解除召回。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2026-01",
+      "occurred": "2025年生产的部分产品",
+      "announced": "2026-01起；所读更新2026-02-04",
+      "region": "英国（部分新增批次仅北爱尔兰）",
+      "brands": "Nestlé / SMA",
+      "product": "多款初生及后续配方（含粉状产品）",
+      "category": "毒素",
+      "evidence_status": "公告更新为检出毒素；召回",
+      "problem": "部分SMA产品检出蜡样芽孢杆菌呕吐毒素cereulide。",
+      "affected_scope": "多产品多批次；如Advanced First 800g：51450742F1、52319722BA、52819722AA；新增53390346AB仅北爱尔兰。",
+      "action": "产品召回并扩展批次。",
+      "followup": "FSA更新2将措辞从预防性可能存在更新为产品发现毒素。",
+      "source_ids": [
+        "S43"
+      ],
+      "notes": "本条举例代码不是完整召回清单；以来源按产品匹配。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2026-02",
+      "occurred": "涉事产品保质期2026-10-31",
+      "announced": "2026-01；所读公告更新2026-02-06",
+      "region": "英国",
+      "brands": "Danone / Aptamil",
+      "product": "First Infant Formula 800g",
+      "category": "毒素",
+      "evidence_status": "该批次检出确认",
+      "problem": "cereulide毒素在该产品批次中检出。",
+      "affected_scope": "公告批次代码31-10-2026；最佳食用日期2026-10-31。",
+      "action": "Danone召回该批次。",
+      "followup": "后续英国汇总还涉及其他Aptamil和Cow & Gate批次，见另一条扩展记录。",
+      "source_ids": [
+        "S44"
+      ],
+      "notes": "保质期/批次码不是事件发生日期。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2026-03",
+      "occurred": "2026年召回覆盖的部分产品",
+      "announced": "截至2026-02-06的召回汇总",
+      "region": "英国及北爱尔兰相应市场",
+      "brands": "Danone / Aptamil、Cow & Gate",
+      "product": "部分初生及后续配方",
+      "category": "毒素",
+      "evidence_status": "可能存在；扩展召回",
+      "problem": "FSA汇总记载多个批次因可能含cereulide召回。",
+      "affected_scope": "具体产品及多批次以汇总链接中的市场清单为准。",
+      "action": "召回并向家长公告。",
+      "followup": "与Aptamil单批次确认检出记录同属2026年毒素召回背景，不应简单当作独立污染源数量。",
+      "source_ids": [
+        "S45"
+      ],
+      "notes": "属于范围扩展记录；未读取全部附件，不宣称完整列出全部批次。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2026-04",
+      "occurred": "2025-05生产产品",
+      "announced": "2026-02-22",
+      "region": "加拿大（Costco）",
+      "brands": "Kendamil",
+      "product": "whole milk含铁乳基配方粉1049g",
+      "category": "毒素",
+      "evidence_status": "官方召回公告",
+      "problem": "因cereulide毒素召回指定产品。",
+      "affected_scope": "L 897274 M 121、L 888632 M 121；生产2025-05-01；最佳食用2027-05-01。",
+      "action": "Kendal Nutricare Canada召回；CFIA核查撤市。",
+      "followup": "由另一国家召回触发；公告发布时无相关患病报告。",
+      "source_ids": [
+        "S46"
+      ],
+      "notes": "",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2026-05",
+      "occurred": "已停售的美国标签库存产品",
+      "announced": "2026-05-02",
+      "region": "美国",
+      "brands": "a2 / The a2 Milk Company",
+      "product": "Platinum Premium USA label 0—12个月31.7oz",
+      "category": "毒素",
+      "evidence_status": "额外检测检出；企业召回",
+      "problem": "检出cereulide。",
+      "affected_scope": "2210269454期限2026-07-15、2210324609期限2027-01-21、2210321712期限2027-01-15。",
+      "action": "三批次自愿召回。",
+      "followup": "公告时无已确认患病/伤害报告；FDA网页现标注召回终止。",
+      "source_ids": [
+        "S47"
+      ],
+      "notes": "以官方表格为准，第一批码是2210269454；不沿用社交平台常见的9455。",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "IF-2026-06",
+      "occurred": "2026-04—05病例；06—08调查",
+      "announced": "2026-06-13",
+      "region": "美国",
+      "brands": "Nara Organics",
+      "product": "Whole Milk Organic Powdered Infant Formula",
+      "category": "微生物",
+      "evidence_status": "疫情调查支持关联；根因未定",
+      "problem": "婴儿肉毒中毒疫情与该粉状配方关联。",
+      "affected_scope": "所有在售批次召回；详细批次见FDA调查页。",
+      "action": "召回全部相关配方；调查临床、配方及原料样本。",
+      "followup": "截至2026-08-27为4例确认病例，CDC宣布疫情结束；FDA指供应链与ByHeart事件存在共性，污染发生地点证据仍不足。",
+      "source_ids": [
+        "S48",
+        "S42"
+      ],
+      "notes": "不把Nara患儿菌株匹配旧ByHeart样本写成Nara所有成品检出。",
+      "checked_on": "2026-10-13"
+    }
+  ]
+}

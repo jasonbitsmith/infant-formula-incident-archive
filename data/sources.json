@@ -1,0 +1,434 @@
+[
+  {
+    "id": "S01",
+    "publisher": "公共卫生研究人员；Epidemiology and Infection",
+    "title": "1996—1997年配方粉相关沙门氏菌分子调查",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2809525/",
+    "type": "原始调查论文",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S02",
+    "publisher": "The Irish Times",
+    "title": "1997年Milumil撤市报道",
+    "url": "https://www.irishtimes.com/news/baby-milk-withdrawn-from-sale-in-ireland-1.25498",
+    "type": "同期媒体",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S03",
+    "publisher": "The Irish Times",
+    "title": "1998年Milumil批次警告",
+    "url": "https://www.irishtimes.com/news/warning-on-baby-food-batch-1.125276",
+    "type": "同期媒体",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S04",
+    "publisher": "CDC",
+    "title": "田纳西州2001年Portagen感染调查",
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5114a1.htm",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S05",
+    "publisher": "American Academy of Pediatrics",
+    "title": "以色列2003年配方粉相关硫胺素缺乏调查",
+    "url": "https://publications.aap.org/pediatrics/article/115/2/e233/67404/Outbreak-of-Life-Threatening-Thiamine-Deficiency",
+    "type": "原始调查论文",
+    "access": "已核对搜索返回的论文摘要；未读取全文",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S06",
+    "publisher": "青岛政务网",
+    "title": "安徽阜阳劣质奶粉事件调查材料",
+    "url": "https://www.qingdao.gov.cn/lslm/zt/yjgl/dxal/202111/t20211119_3842783.shtml",
+    "type": "政府转载调查材料",
+    "access": "已核对搜索摘要；正文访问超时",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S07",
+    "publisher": "Santé publique France",
+    "title": "法国2005年Agona沙门氏菌配方粉疫情调查",
+    "url": "https://www.santepubliquefrance.fr/en/salmonellose/article/salmonella-enterica-serotype-agona-outbreak-linked-consumption-infant-formula-france-january-may",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S08",
+    "publisher": "WHO",
+    "title": "中国2008年三聚氰胺配方粉事件",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2008_09_19-en",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S09",
+    "publisher": "央视网",
+    "title": "2008年9月16日质检总局专项检查名单",
+    "url": "https://news.cctv.com/china/20080916/107372.shtml",
+    "type": "同期媒体转述监管结果",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S10",
+    "publisher": "北京市卫生健康委员会",
+    "title": "2008年9月17日国新办发布会实录",
+    "url": "https://wjw.beijing.gov.cn/xwzx_20031/wnxw/201912/t20191214_1176782.html",
+    "type": "政府转载发布会",
+    "access": "已核对搜索返回的发布会摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S11",
+    "publisher": "美国政府数据目录；FDA",
+    "title": "2010年Abbott Similac召回数据说明",
+    "url": "https://catalog.data.gov/dataset/fda-abbott-infant-formula-recall",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S12",
+    "publisher": "香港食物安全中心",
+    "title": "2011年明治奶粉放射性物质事件跟进",
+    "url": "https://www.cfs.gov.hk/tc_chi/press/2011_12_07_1.html",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S13",
+    "publisher": "台湾大陆委员会转食品药物管理局",
+    "title": "2012年伊利汞含量异常警讯",
+    "url": "https://www.mac.gov.tw/cn/News_Content.aspx?n=F34D408ACAA86887&s=B160300AF58F1ED0&sms=8E0A247A631E0960",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S14",
+    "publisher": "财新",
+    "title": "2012年伊利全优乳粉召回报道",
+    "url": "https://companies.caixin.com/2012-06-15/100401207.html",
+    "type": "同期媒体",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S15",
+    "publisher": "香港食物安全中心",
+    "title": "2012年8月8日两款日本奶粉碘含量较低",
+    "url": "https://www.cfs.gov.hk/sc_chi/press/2012_08_08_1.html",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S16",
+    "publisher": "香港食物环境卫生署",
+    "title": "2012年8月10日另四款奶粉低碘公告",
+    "url": "https://www.fehd.gov.hk/tc_chi/news/details/10-08-2012-2040.html",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S17",
+    "publisher": "香港食物安全中心",
+    "title": "2012年8月16日复检及修正",
+    "url": "https://www.cfs.gov.hk/tc_chi/press/2012_08_16_1.html",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S18",
+    "publisher": "新西兰MPI",
+    "title": "2013年WPC事件官方文件索引",
+    "url": "https://www.mpi.govt.nz/about-mpi/official-information-act-oia-releases/food-safety-official-information-act-releases/whey-protein-concentrate-contamination-incident",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S19",
+    "publisher": "Fonterra",
+    "title": "2013年复检排除肉毒梭菌",
+    "url": "https://www.fonterra.com/sea/en/our-stories/media/fonterra-publishes-findings-of-its-operational-review.html",
+    "type": "企业后续说明",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S20",
+    "publisher": "香港食物安全中心",
+    "title": "2013年乳清事件后续综述",
+    "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/files/FSF92_2014_03_19.pdf",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S21",
+    "publisher": "最高人民检察院",
+    "title": "假冒贝因美及雅培奶粉司法案例",
+    "url": "https://www.spp.gov.cn/spp/zxjy/qwfb/201803/t20180314_371927.shtml",
+    "type": "司法机构案例",
+    "access": "已核对搜索摘要；正文访问超时",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S22",
+    "publisher": "国家应急广播网；新华社",
+    "title": "2015年陕西圣唐乳业处罚报道",
+    "url": "https://www.cneb.gov.cn/2015/12/05/ARTI1449306935044903.shtml",
+    "type": "同期媒体转述监管处理",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S23",
+    "publisher": "WHO",
+    "title": "2017年法国Lactalis配方粉相关沙门氏菌疫情",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/22-december-2017-salmonella-agona-infections-france-en",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S24",
+    "publisher": "香港食物环境卫生署",
+    "title": "2018年Lactalis回收扩大公告",
+    "url": "https://www.fehd.gov.hk/tc_chi/news/details/20180118_6717.html",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S25",
+    "publisher": "Santé publique France",
+    "title": "2019年Modilac米蛋白配方调查与Picot AR预防性召回",
+    "url": "https://www.santepubliquefrance.fr/les-actualites/cas-de-salmonellose-de-serotype-poona-chez-des-nourrissons-point-au-18-fevrier-2019",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S26",
+    "publisher": "Santé publique France",
+    "title": "2018—2019年Poona疫情后续论文摘要",
+    "url": "https://www.santepubliquefrance.fr/salmonellose/article/outbreak-salmonella-enterica-serotype-poona-infants-linked-persistent-salmonella-contamination",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S27",
+    "publisher": "FDA刊载Perrigo公告",
+    "title": "2019年Parent’s Choice金属异物可能性召回",
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/perrigo-issues-voluntary-recall-parents-choice-advantage-infant-formula-milk-based-powder-iron",
+    "type": "企业召回公告（监管网站刊载）",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S28",
+    "publisher": "国家市场监督管理总局",
+    "title": "倍氨敏固体饮料误导销售典型案例",
+    "url": "https://www.samr.gov.cn/zfjcj/dxal/art/2023/art_7b176c02fe1946edb8c7a7313ab900ae.html",
+    "type": "监管/公共卫生机构",
+    "access": "已核对搜索返回的案例内容",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S29",
+    "publisher": "FDA刊载Able Groupe公告",
+    "title": "2021年进口配方粉美国合规召回",
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/able-groupe-recalling-products-labeled-infant-formula-formulas-have-insufficient-iron-levels",
+    "type": "企业召回公告（监管网站刊载）",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S30",
+    "publisher": "FDA",
+    "title": "2022年Abbott调查及召回",
+    "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/fda-investigation-cronobacter-infections-powdered-infant-formula-february-2022",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S31",
+    "publisher": "FDA",
+    "title": "Mother’s Touch营养与合规警告",
+    "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-parents-and-caregivers-not-buy-or-give-mothers-touch-formula-infants",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S32",
+    "publisher": "FDA刊载ByHeart公告",
+    "title": "2022年ByHeart五批次召回",
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/byheart-issues-voluntary-recall-five-batches-its-infant-formula-because-possible-health-risk",
+    "type": "企业召回公告（监管网站刊载）",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S33",
+    "publisher": "FDA",
+    "title": "2023年ByHeart警告信",
+    "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/byheart-inc-653854-08302023",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S34",
+    "publisher": "FDA",
+    "title": "2023年ProSobee召回通报",
+    "url": "https://content.govdelivery.com/accounts/USFDA/bulletins/34a2379",
+    "type": "监管发布的企业召回通报",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S35",
+    "publisher": "FDA",
+    "title": "2023年Reckitt警告信",
+    "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/reckittmead-johnson-nutrition-654775-08302023",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S36",
+    "publisher": "FDA刊载Perrigo公告",
+    "title": "2023年Gerber SoothePro召回",
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/perrigo-announces-voluntary-recall-limited-quantity-gerberr-good-startr-sootheprotm-powdered-infant",
+    "type": "企业召回公告（监管网站刊载）",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S37",
+    "publisher": "FDA",
+    "title": "2023年Perrigo警告信",
+    "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/perrigo-wisconsin-llc-659891-08302023",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S38",
+    "publisher": "FDA",
+    "title": "2023年Nutramigen召回通报",
+    "url": "https://content.govdelivery.com/accounts/USFDA/bulletins/3825bb7",
+    "type": "监管发布的企业召回通报",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S39",
+    "publisher": "FDA",
+    "title": "2024年Crecelac克罗诺杆菌警告（西班牙语）",
+    "url": "https://www.fda.gov/food/alerts-advisories-safety-information/la-fda-alerta-los-padres-y-cuidadores-sobre-los-problemas-de-inocuidad-causados-por-cronobacter-en",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S40",
+    "publisher": "FDA刊载Perrigo公告",
+    "title": "2024年CVS及H-E-B维生素D召回",
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/perrigo-issues-voluntary-recall-one-batch-premium-infant-formula-iron-milk-based-powder-due-elevated",
+    "type": "企业召回公告（监管网站刊载）",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S41",
+    "publisher": "FDA",
+    "title": "2025年ByHeart肉毒中毒调查",
+    "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S42",
+    "publisher": "FDA",
+    "title": "ByHeart及Nara疫情后续活动与根因调查",
+    "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/post-outbreak-response-activities-clostridium-botulinum-illnesses-associated-consumption-powdered",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S43",
+    "publisher": "英国FSA",
+    "title": "2026年SMA召回更新2",
+    "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-02-2026-update-2",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S44",
+    "publisher": "英国FSA",
+    "title": "2026年Aptamil单批次毒素检出召回",
+    "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-03-2026",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S45",
+    "publisher": "英国FSA",
+    "title": "2026年SMA、Aptamil与Cow & Gate召回汇总",
+    "url": "https://www.food.gov.uk/safety-hygiene/infant-formula-recalls?navref=quicklink",
+    "type": "监管/公共卫生机构",
+    "access": "已读取搜索返回的完整汇总内容；无参数地址访问返回410",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S46",
+    "publisher": "加拿大CFIA",
+    "title": "2026年Kendamil两批次召回",
+    "url": "https://recalls-rappels.canada.ca/en/alert-recall/kendamil-brand-infant-formula-whole-milk-recalled-due-cereulide-toxin",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S47",
+    "publisher": "FDA刊载a2公告",
+    "title": "2026年a2 Platinum美国标签产品召回",
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/a2-platinum-usa-label-infant-formula-recalled-because-possible-health-risk",
+    "type": "企业召回公告（监管网站刊载）",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S48",
+    "publisher": "FDA",
+    "title": "2026年Nara Organics肉毒中毒调查",
+    "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026",
+    "type": "监管/公共卫生机构",
+    "access": "已核对网络检索返回的公告内容或摘要",
+    "checked_on": "2026-10-13"
+  }
+]
